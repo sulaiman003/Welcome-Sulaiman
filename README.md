@@ -7,3 +7,4 @@ Welcome tot the profile of Sulaiman!
 ## Abilities
 1. Interpersonal Skills
 2. Management Skills
+3. Organizational Skills
